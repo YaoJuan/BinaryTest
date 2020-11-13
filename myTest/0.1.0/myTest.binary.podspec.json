@@ -1,0 +1,23 @@
+{
+  "name": "myTest",
+  "version": "0.1.0",
+  "summary": "A short description of myTest.",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」\n TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YaoJuan/myTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "82503655@qq.com": "82503655@qq.com"
+  },
+  "source": {
+    "http": "http://localhost:9090/frameworks/myTest/0.1.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "myTest/Classes/**/*",
+  "vendored_frameworks": "myTest.framework"
+}
